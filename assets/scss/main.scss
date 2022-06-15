@@ -1,0 +1,12 @@
+.page-enter-active{
+    animation: zoomIn 0.5s;
+    // animation: fadeIn 0.5s;
+}
+
+.page-leave-active{
+    animation: fadeOut 0.5s;
+}
+
+.shadow-custom{
+    box-shadow: 0 0 15px 0 rgb(34 41 47 / 5%);
+}
